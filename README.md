@@ -1,4 +1,4 @@
-👋 Hi, I’m @tqthy
+👋 Welcome to Thy Tran's profile
 
 <!---
 tqthy/tqthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
