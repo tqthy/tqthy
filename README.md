@@ -17,7 +17,7 @@ I’m currently working on **designing a CDN system**, focusing on optimizing as
 ---
 
 ## 🚀 Tech Stack
-- **Frontend**: HTML,CSS, Vue.js
+- **Frontend**: HTML, CSS, Vue.js
 - **Backend Frameworks**: Node.js (Nest.js, Express.js)
 - **Web Servers**: Nginx
 - **Databases & Caching**: PostgreSQL, SQL Server, MongoDB, MinIO S3 Storage, Redis
