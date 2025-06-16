@@ -17,20 +17,20 @@ I’m currently working on **designing a CDN system**, focusing on optimizing as
 ---
 
 ## 🚀 Tech Stack
-- **Frontend**: HTML, CSS, Vue.js
-- **Backend Frameworks**: Node.js (Nest.js, Express.js)
+- **Frontend**: HTML, CSS, React.js
+- **Backend Frameworks**: Node.js (Nest.js, Express.js), ASP.NET Core
 - **Web Servers**: Nginx
-- **Databases & Caching**: PostgreSQL, SQL Server, MongoDB, MinIO S3 Storage, Redis
-- **Cloud Services**: AWS (CloudFront, EC2, S3), Google Cloud (Firebase, Firestore, Cloud Storage, Cloud Function)
+- **Databases & Caching**: PostgreSQL, SQL Server, MongoDB, MinIO S3, Redis
+- **Cloud Services**: AWS, Google Cloud
+- **Message Brokers**: RabbitMQ
 - **Mobile Application**: Java
 - **Desktop Application**: C#, WF/WPF, Electron.js
-- **Containerization**: Docker
+- **Containerization**: Docker, Docker Swarm
 
 ---
 
 ## 📚 Planning to Learn
 - **Go**: To build high-performance, scalable backends.
-- **React.js**: To expand into front-end development.
 
 ---
 
