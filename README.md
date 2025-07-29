@@ -3,10 +3,6 @@
 ## 🎓 About Me
 I'm a **3rd-year Software Engineering student** at **UIT - VNUHCM** with a passion for creating efficient, scalable, and well-designed backend systems. My focus lies in **Backend Development** and **System Design**, and I love exploring how to build robust solutions for complex problems.
 
-
-## 📚 Planning to Learn
-- **Go**: To build high-performance, scalable backends.
-
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations, opportunities, or just a friendly chat about technology:
 - GitHub: [@tqthy](https://github.com/tqthy)
