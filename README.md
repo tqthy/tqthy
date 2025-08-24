@@ -5,8 +5,6 @@ I'm a **3rd-year Software Engineering student** at **UIT - VNUHCM** with a passi
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations, opportunities, or just a friendly chat about technology:
-- GitHub: [@tqthy](https://github.com/tqthy)
 - Email: [tqthy034@gmail.com](mailto:tqthy034@gmail.com)
-- Facebook: [Thy Tran](https://facebook.com/thy.tran.2004)
 - LinkedIn: [tqthy](https://www.linkedin.com/in/tqthy)
 
